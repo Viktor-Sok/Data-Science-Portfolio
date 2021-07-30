@@ -1,1 +1,5 @@
-# Data-Science-Portfolio
+## Data-Science-Portfolio
+### 1. The folder *Examples_of_SQL_Queries* consists of some of saved queries which i used during my practice.There are some complex SELECT statements (with INNER and OUTER JOINS, set operatons like UNION, and subqueries) as well as some statements of data definition language (CREATE TABLE, ALTER TABLE, CREATE PROCEDURE, ALTER TABLE, CREATE VIEW, CREATE INDEX, etc.).
+### 2. The folder *MySQL_Database_coffee_shop*  has example of database implemented in MySQL-server using MySQL-workbench, with normalization and some views.
+### 3. Jupyter notebook *Cleaning_Data_and_Building_Machine_Learning_Model* shows an example of using Python and its libraries (Pandas, Numpy, Matplotlib, Scikit-Learn) for data cleaning, descriptive statistics and building machine learnin models (different types of regressions).
+### 4. Jupyter notebook *Data_Visualization_in_Python* gives an overview of different graphs which are used by Data Analysts and Data Scientists for visualization in Python with libraries like Matplotlib, Seaborn. 
